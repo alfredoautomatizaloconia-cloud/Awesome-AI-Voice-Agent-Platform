@@ -83,3 +83,14 @@ Prefer actively maintained open-source projects that support real-time voice pip
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open-source voice agent tooling is advancing rapidly! 🎙️
+
+##  Star History
+<div align="center">
+<a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-AI-Voice-Agent-Platform&type=date&legend=bottom-right">
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Voice-Agent-Platform&type=date&theme=dark&legend=bottom-right" />
+<source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Voice-Agent-Platform&type=date&legend=bottom-right" />
+<img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-AI-Voice-Agent-Platform&type=date&legend=bottom-right" />
+</picture>
+</a>
+</div>
