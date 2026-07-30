@@ -8,18 +8,18 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🏢 SaaS / Hosted Platforms
 
-| Platform | Description | Pricing | Free Tier / Trial Limit |
-| :--- | :--- | :--- | :--- |
-| **[Vapi](https://vapi.ai/)** | Developer-focused voice AI platform with strong APIs, visual workflow tools, telephony, and support for multiple STT/LLM/TTS providers. | Pay-as-you-go (Base fee $0.05/min, total all-in cost ~$0.18–$0.33/min) | $10 one-time credit (~150–200 min) & 10 free phone numbers |
-| **[Retell AI](https://www.retellai.com/)** | Managed voice agent platform emphasizing low latency, natural conversations, and ease of deployment for inbound/outbound calling. | Pay-as-you-go (Base voice infra $0.07–$0.08/min, all-in cost ~$0.11–$0.31/min) | $10 one-time credit & 20 concurrent calls |
-| **[Bland AI](https://www.bland.ai/)** | Voice AI platform focused on high-volume outbound and phone automation with strong enterprise options. | Pay-as-you-go ($0.14/min connected AI talk time, $0.05/min transfer time on Start tier) | 2 free credits, 1 phone number, 100 calls/day, and 10 concurrent calls |
-| **[PlayAI](https://play.ai/)** | Conversational AI platform with voice agent capabilities. | Subscription-based (Play.ht plans) and pay-as-you-go options | 12,500 characters/month (non-commercial, watermarked) |
-| **[Synthflow](https://synthflow.ai/)** | No-code / low-code voice AI automation platform for building and deploying agents. | Pay-as-you-go (Base voice engine $0.09/min, all-in cost ~$0.11–$0.24/min) | Free trial to build/test with limited test minutes |
-| **[Air AI](https://air.ai/)** | AI voice agent platform aimed at sales and customer engagement use cases. | Enterprise licensing / custom quotes only (high upfront commitments reported) | No free tier or trial |
-| **[Voiceflow](https://www.voiceflow.com/)** | Conversational AI design platform (broader than pure voice) used for designing and deploying voice and chat agents. | Pro plan starts at $60/month | 2 agents and 100 credits/month (evaluation only, ChatGPT only) |
-| **[Hume AI](https://www.hume.ai/)** | Emotion-aware voice AI platform with expressive TTS and conversational models. | Pay-as-you-go (paid plans start at $3/month) | 5 EVI minutes/month and 10,000 TTS characters/month (non-commercial) |
-| **[PolyAI](https://poly.ai/)** | Enterprise conversational AI platform specialized in voice customer service agents. | Enterprise-only / custom quotes | No free tier or trial |
-| **[Deepgram](https://deepgram.com/)** | Speech AI platform (STT/TTS) with Voice Agent capabilities and real-time APIs frequently used as a building block. | Pay-as-you-go | $200 one-time free credit (non-expiring) |
+| Platform | Description | Pricing | Free Tier / Trial Limit | Company Size (Valuation/Revenue) |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Deepgram](https://deepgram.com/)** | Speech AI platform (STT/TTS) with Voice Agent capabilities and real-time APIs frequently used as a building block. | Pay-as-you-go | $200 one-time free credit (non-expiring) | $1.3B Valuation |
+| **[PolyAI](https://poly.ai/)** | Enterprise conversational AI platform specialized in voice customer service agents. | Enterprise-only / custom quotes | No free tier or trial | $750M Valuation |
+| **[Vapi](https://vapi.ai/)** | Developer-focused voice AI platform with strong APIs, visual workflow tools, telephony, and support for multiple STT/LLM/TTS providers. | Pay-as-you-go (Base fee $0.05/min, total all-in cost ~$0.18–$0.33/min) | $10 one-time credit (~150–200 min) & 10 free phone numbers | $500M Valuation |
+| **[Hume AI](https://www.hume.ai/)** | Emotion-aware voice AI platform with expressive TTS and conversational models. | Pay-as-you-go (paid plans start at $3/month) | 5 EVI minutes/month and 10,000 TTS characters/month (non-commercial) | $219M–$450M Valuation |
+| **[Bland AI](https://www.bland.ai/)** | Voice AI platform focused on high-volume outbound and phone automation with strong enterprise options. | Pay-as-you-go ($0.14/min connected AI talk time, $0.05/min transfer time on Start tier) | 2 free credits, 1 phone number, 100 calls/day, and 10 concurrent calls | $200M+ Valuation |
+| **[Air AI](https://air.ai/)** | AI voice agent platform aimed at sales and customer engagement use cases. | Enterprise licensing / custom quotes only (high upfront commitments reported) | No free tier or trial | $150M+ Valuation |
+| **[Voiceflow](https://www.voiceflow.com/)** | Conversational AI design platform (broader than pure voice) used for designing and deploying voice and chat agents. | Pro plan starts at $60/month | 2 agents and 100 credits/month (evaluation only, ChatGPT only) | $105M Valuation |
+| **[Retell AI](https://www.retellai.com/)** | Managed voice agent platform emphasizing low latency, natural conversations, and ease of deployment for inbound/outbound calling. | Pay-as-you-go (Base voice infra $0.07–$0.08/min, all-in cost ~$0.11–$0.31/min) | $10 one-time credit & 20 concurrent calls | $84M Valuation (~$60M ARR) |
+| **[PlayAI](https://play.ai/)** | Conversational AI platform with voice agent capabilities. | Subscription-based (Play.ht plans) and pay-as-you-go options | 12,500 characters/month (non-commercial, watermarked) | ~$30M Valuation |
+| **[Synthflow](https://synthflow.ai/)** | No-code / low-code voice AI automation platform for building and deploying agents. | Pay-as-you-go (Base voice engine $0.09/min, all-in cost ~$0.11–$0.24/min) | Free trial to build/test with limited test minutes | ~$15M Valuation |
 
 ## 🔓 Open-Source Software
 
