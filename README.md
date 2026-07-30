@@ -3,7 +3,7 @@
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome AI Voice Agent Platform Banner" width="100%" />
 </div>
-## Similar Projects to AI Voice Agent Platforms
+## 🤖 Similar Projects to AI Voice Agent Platforms
 
 **AI Voice Agent** platforms enable real-time conversational voice AI — combining speech-to-text (STT), large language models (LLMs), text-to-speech (TTS), telephony/WebRTC, tool calling, and orchestration for phone agents, inbound/outbound calling, and voice assistants. Leading commercial tools include Vapi, Retell AI, Bland AI, PlayAI, Synthflow, Air AI, Voiceflow, Hume AI, PolyAI, and Deepgram Voice Agent offerings.
 
@@ -26,39 +26,39 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 
 ## 🔓 Open-Source Software
 
-### Full Platforms / Closest Vapi & Retell Alternatives
+### 🚀 Full Platforms / Closest Vapi & Retell Alternatives
 - **[Dograh](https://github.com/dograh-hq/dograh)** [![GitHub stars](https://img.shields.io/github/stars/dograh-hq/dograh?style=social&color=white)](https://github.com/dograh-hq/dograh/stargazers) — Leading open-source, self-hostable voice AI platform and direct alternative to Vapi/Retell. Features a visual workflow builder, telephony support (Twilio, Vonage, etc.), BYOK for STT/LLM/TTS (or speech-to-speech), MCP support, post-call analytics, and full self-hosting (BSD license). Strong production-oriented feature set.
 
-### Real-Time Voice Agent Frameworks
+### 🛠️ Real-Time Voice Agent Frameworks
 - **[Pipecat](https://github.com/pipecat-ai/pipecat)** [![GitHub stars](https://img.shields.io/github/stars/pipecat-ai/pipecat?style=social&color=white)](https://github.com/pipecat-ai/pipecat/stargazers) — Open-source Python framework (from Daily) for building real-time voice and multimodal conversational agents. Highly modular pipelines for VAD, STT, LLM, TTS, transports, and multi-agent coordination. Excellent for engineers who want full control.
 - **[LiveKit Agents](https://github.com/livekit/agents)** [![GitHub stars](https://img.shields.io/github/stars/livekit/agents?style=social&color=white)](https://github.com/livekit/agents/stargazers) — Open-source framework (Apache 2.0) built on LiveKit’s real-time WebRTC infrastructure. Lets you add Python/Node.js agents as participants in rooms with streaming STT/LLM/TTS pipelines, tool calling, and telephony/SIP support. Very popular for production real-time agents.
 - **[TEN Framework / TEN-Agent](https://github.com/TEN-framework/TEN-Agent)** [![GitHub stars](https://img.shields.io/github/stars/TEN-framework/TEN-Agent?style=social&color=white)](https://github.com/TEN-framework/TEN-Agent/stargazers) — Open-source framework for real-time multimodal conversational AI agents, including voice.
 - **[Vocode](https://github.com/vocodedev/vocode-core)** [![GitHub stars](https://img.shields.io/github/stars/vocodedev/vocode-core?style=social&color=white)](https://github.com/vocodedev/vocode-core/stargazers) — Open-source library/framework for building voice agents with pluggable STT, LLM, and TTS components (frequently cited alongside Pipecat and LiveKit).
 
-### Supporting Open-Source Building Blocks
+### 🧱 Supporting Open-Source Building Blocks
 - **Hugging Face speech-to-speech** and related cascaded pipelines — Modular open-source speech-to-speech stacks using Whisper/Parakeet (STT), open LLMs, and open TTS models.
-- Local/open STT: faster-whisper, NVIDIA Parakeet, Silero VAD, etc.
-- Local/open TTS: Kokoro, XTTS, Coqui, Fish Speech, Qwen-TTS, and others.
-- Real-time media: LiveKit (self-hosted), WebRTC stacks.
+- 🎙️ Local/open STT: faster-whisper, NVIDIA Parakeet, Silero VAD, etc.
+- 🗣️ Local/open TTS: Kokoro, XTTS, Coqui, Fish Speech, Qwen-TTS, and others.
+- ⚡ Real-time media: LiveKit (self-hosted), WebRTC stacks.
 - Many teams assemble a full open stack: **Dograh or Pipecat/LiveKit Agents** (orchestration) + preferred STT/LLM/TTS + telephony provider.
 
-### Typical Open-Source Voice Agent Stack
+### ⚙️ Typical Open-Source Voice Agent Stack
 A common production-oriented open-source approach:
-1. **Orchestration** — Dograh (visual) or Pipecat / LiveKit Agents (code-first)
-2. **STT** — Deepgram, Whisper, Parakeet, or self-hosted alternatives
-3. **LLM** — Any OpenAI-compatible endpoint (cloud or self-hosted)
-4. **TTS** — ElevenLabs, Cartesia, Kokoro, or other open models
-5. **Transport** — Twilio/Vonage/SIP or LiveKit WebRTC
+1. 🛠️ **Orchestration** — Dograh (visual) or Pipecat / LiveKit Agents (code-first)
+2. 📝 **STT** — Deepgram, Whisper, Parakeet, or self-hosted alternatives
+3. 🧠 **LLM** — Any OpenAI-compatible endpoint (cloud or self-hosted)
+4. 🔊 **TTS** — ElevenLabs, Cartesia, Kokoro, or other open models
+5. 📞 **Transport** — Twilio/Vonage/SIP or LiveKit WebRTC
 
 This gives full data ownership and eliminates per-minute platform markups while retaining flexibility.
 
 ---
 
-**How to contribute**  
+**🤝 How to contribute**  
 Fork this repository, add a new project (with link + short description + category), and open a pull request.  
 Prefer actively maintained open-source projects that support real-time voice pipelines, telephony, or visual/code-based agent building.
 
-**License**  
+**📄 License**  
 This list is public domain / CC0. Feel free to copy into your own awesome list or README.
 
 Star the projects you find useful — open-source voice agent tooling is advancing rapidly! 🎙️
