@@ -1,5 +1,8 @@
 # Awesome-AI-Voice-Agent-Platform
 
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Voice Agent Platform Banner" width="100%" />
+</div>
 ## Similar Projects to AI Voice Agent Platforms
 
 **AI Voice Agent** platforms enable real-time conversational voice AI — combining speech-to-text (STT), large language models (LLMs), text-to-speech (TTS), telephony/WebRTC, tool calling, and orchestration for phone agents, inbound/outbound calling, and voice assistants. Leading commercial tools include Vapi, Retell AI, Bland AI, PlayAI, Synthflow, Air AI, Voiceflow, Hume AI, PolyAI, and Deepgram Voice Agent offerings.
