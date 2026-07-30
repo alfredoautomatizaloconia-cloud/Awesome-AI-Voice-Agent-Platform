@@ -1,8 +1,25 @@
-# Awesome-AI-Voice-Agent-Platform
+# Awesome AI Voice Agent Platform 🎙️
 
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome AI Voice Agent Platform Banner" width="100%" />
 </div>
+
+A curated directory of leading commercial SaaS platforms, open-source frameworks, self-hostable tools, and building blocks for creating real-time conversational AI voice agents, automated phone callers, and interactive voice response (IVR) systems.
+
+---
+
+## 📌 Table of Contents
+- [🏢 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🔓 Open-Source Software](#-open-source-software)
+  - [🚀 Full Platforms / Closest Vapi & Retell Alternatives](#-full-platforms--closest-vapi--retell-alternatives)
+  - [🛠️ Real-Time Voice Agent Frameworks](#️-real-time-voice-agent-frameworks)
+  - [🧱 Supporting Open-Source Building Blocks](#-supporting-open-source-building-blocks)
+  - [⚙️ Typical Open-Source Voice Agent Stack](#️-typical-open-source-voice-agent-stack)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [📄 License](#-license)
+
+---
+
 ## 🤖 Similar Projects to AI Voice Agent Platforms
 
 **AI Voice Agent** platforms enable real-time conversational voice AI — combining speech-to-text (STT), large language models (LLMs), text-to-speech (TTS), telephony/WebRTC, tool calling, and orchestration for phone agents, inbound/outbound calling, and voice assistants. Leading commercial tools include Vapi, Retell AI, Bland AI, PlayAI, Synthflow, Air AI, Voiceflow, Hume AI, PolyAI, and Deepgram Voice Agent offerings.
