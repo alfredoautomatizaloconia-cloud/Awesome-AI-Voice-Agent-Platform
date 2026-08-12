@@ -44,6 +44,7 @@ Below is a **curated list** of notable platforms and their open-source equivalen
 | **[Retell AI](https://www.retellai.com/)** | Managed voice agent platform emphasizing low latency, natural conversations, and ease of deployment for inbound/outbound calling. | Pay-as-you-go (Base voice infra $0.07–$0.08/min, all-in cost ~$0.11–$0.31/min) | $10 one-time credit & 20 concurrent calls | $84M Valuation (~$60M ARR) |
 | **[PlayAI](https://play.ai/)** | Conversational AI platform with voice agent capabilities. | Subscription-based (Play.ht plans) and pay-as-you-go options | 12,500 characters/month (non-commercial, watermarked) | ~$30M Valuation |
 | **[Synthflow](https://synthflow.ai/)** | No-code / low-code voice AI automation platform for building and deploying agents. | Pay-as-you-go (Base voice engine $0.09/min, all-in cost ~$0.11–$0.24/min) | Free trial to build/test with limited test minutes | ~$15M Valuation |
+| **[Hermes](https://www.buildwithhermes.com/)** | White-label operating platform purpose-built for AI voice agencies. Bundles voice agents, a built-in CRM, campaign orchestration, and transparent per-minute billing under the agency's own brand, replacing a duct-taped stack of Retell/Vapi plus CRM plus Zapier plus billing. | Subscription from $149/mo (Starter, 300 min), $399/mo (Business, 1,000 min), $699/mo (Agency, 2,000 min); voice overage $0.24/min | Founders' Beta access (no public free tier yet) | Private, early-stage (Founders' Beta) |
 
 ## 🔓 Open-Source Software
 
